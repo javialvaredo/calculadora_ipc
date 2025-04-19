@@ -32,5 +32,5 @@ Python 3.6 o superior
 Librerías estándar (tkinter, messagebox) — ya vienen con Python
 
 Autor
-Desarrollado Javier Alvaredo
+Desarrollado Javier Alvaredopyinstaller --onefile --windowed main.py
 Inspirado en la necesidad de visualizar el impacto acumulado del IPC mes a mes.
